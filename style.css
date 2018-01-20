@@ -1,0 +1,14 @@
+.jumbotron {
+	background-color: #386482;
+}
+
+.heading {
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Exo', sans-serif;
+}
+
+.bottom-line {
+	margin-bottom: 40px;
+	margin-right: 10px;
+}
